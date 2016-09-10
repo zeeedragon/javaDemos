@@ -1,0 +1,4 @@
+digits: 19
+smalls: 67
+caps: 7
+delimiters:42
